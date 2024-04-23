@@ -1,8 +1,8 @@
 import os
 import logging
 from pyrogram import filters
-from AnonXMusic import pbot as app
 from pyrogram.types import User
+from AnonXMusic import app
 
 # -------------------------------
 
